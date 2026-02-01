@@ -6,7 +6,7 @@ from keywordsai_tracing import KeywordsAITelemetry
 # Initialize Keywords AI Telemetry
 os.environ["KEYWORDSAI_API_KEY"] = "yf4XScSu.BddinxnSGyk0oy28sEvuV6PAN35ldkBj"
 os.environ["KEYWORDSAI_BASE_URL"] = "https://api.keywordsai.co/api"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "AIzaSyAiyC6YRIncqzOyh96a1HJ315-HjvhSNj0"
 
 k_tl = KeywordsAITelemetry()
 # Initialize OpenAI client
